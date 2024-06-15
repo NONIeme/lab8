@@ -71,7 +71,7 @@ task5('data.json', 'category1', update_func)
 Вимоги до середовища
 - **Python версії 3.x
 - **Необхідні бібліотеки: json
-- 
+
 Команда для запуску
 ```
 python main.py
